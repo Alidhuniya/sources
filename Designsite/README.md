@@ -17,6 +17,8 @@
 
 ## Icons
 
+### [flaticon](https://www.flaticon.com/)
+
 ### [fontawesomeIcons](https://fontawesome.com/)
 
 ## Website and Landing Pages
