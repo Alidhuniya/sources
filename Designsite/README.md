@@ -17,6 +17,8 @@
 
 ## Icons
 
+### [freepik](https://www.freepik.com/free-icons/logo)
+
 ### [flaticon](https://www.flaticon.com/)
 
 ### [fontawesomeIcons](https://fontawesome.com/)
