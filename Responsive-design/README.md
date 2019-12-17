@@ -14,3 +14,7 @@
 ### [youtube](https://www.youtube.com/watch?v=LzRfa6xAkqk)
 
 ### [blog](https://medium.com/@elad/the-new-responsive-design-evolution-2bfb9b504a4e)
+
+### [css resolution vs device resolution](https://medium.com/@elad/understanding-the-difference-between-css-resolution-and-device-resolution-28acae23da0b)
+
+### [responsive-image](https://medium.com/@elad/a-complete-guide-for-responsive-images-b13db359c6c7)
