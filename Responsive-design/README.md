@@ -12,3 +12,5 @@
 ### [Blog](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
 ### [youtube](https://www.youtube.com/watch?v=LzRfa6xAkqk)
+
+### [blog](https://medium.com/@elad/the-new-responsive-design-evolution-2bfb9b504a4e)
