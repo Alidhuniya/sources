@@ -1,5 +1,6 @@
 # Responsive Design:
 
+### [multi-single line css](https://medium.com/@elad/trimming-multi-lines-in-css-5ae59d5e6d84)
 
 ### [youtube](https://www.youtube.com/watch?v=fgOO9YUFlGI)
 
