@@ -17,6 +17,8 @@
 
 ## Icons
 
+### [alternative to fontAwesome](https://css.gg/app)
+
 ### [freepik](https://www.freepik.com/free-icons/logo)
 
 ### [flaticon](https://www.flaticon.com/)
