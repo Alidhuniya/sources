@@ -4,6 +4,10 @@
 
 ## Colors
 
+### [colors-sheme-generator](https://www.colorsandfonts.com/)
+
+### [color-shemes-generator](https://coolors.co/)
+
 ### [adobe](https://color.adobe.com/create)
 
 ### [mycolor](https://mycolor.space/)
