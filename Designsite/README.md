@@ -21,6 +21,8 @@
 
 ## Icons
 
+### [icons8](https://icons8.com/icons)
+
 ### [alternative to fontAwesome](https://css.gg/app)
 
 ### [freepik](https://www.freepik.com/free-icons/logo)
