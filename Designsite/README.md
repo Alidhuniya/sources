@@ -28,6 +28,8 @@
 
 ## Icons
 
+### [collection of all icons site](https://dev.to/weeb/15-of-the-best-and-largest-icon-libraries-4p5n)
+
 ### [icons8](https://icons8.com/icons)
 
 ### [alternative to fontAwesome](https://css.gg/app)
