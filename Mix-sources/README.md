@@ -7,5 +7,6 @@
 ## [falvicopes](https://flaviocopes.com/)
 ## [Massive Resources For Every PHP Developer To Bookmark](https://dev.to/moha1234566044/massive-resources-for-every-php-developer-to-bookmark-om2)
 ## [Free GitHub Learning Labs A to Z of Web Development](https://dev.to/krishnakakade/free-github-learning-labs-a-to-z-of-web-development-3501)
+## [create-an-e-commerce-app-with-gatsby](https://jamstack.training/p/create-an-e-commerce-app-with-gatsby)
 
 

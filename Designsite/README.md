@@ -1,5 +1,15 @@
 # Design sources
 
+## Learn Design
+### [books on design and dev](https://abookapart.com/)
+### [Learning Design vs. Becoming a Designer](https://artplusmarketing.com/learning-design-vs-becoming-a-designer-128c257667b4)
+### [Design for Non-Designers: Part 1](https://medium.com/hello-web-design/design-for-non-designers-part-1-6559ed93ff91)
+### [Design for Non-Designers: Part 2](https://medium.com/hello-web-design/design-for-non-designers-part-2-74d7ab3124f6)
+### [Design for Non-Designers: Part 3](https://medium.com/hello-web-design/design-for-non-designers-part-3-49686371f92b)
+### [Useful Web Design Resources – Learning Coding & Design](https://www.smashingmagazine.com/2014/02/learning-resources-roundup/#a1)
+### [Design For Developers](https://www.smashingmagazine.com/2016/12/mistakes-developers-make-when-learning-design/)
+### [Design Fundamentals](https://www.freecodecamp.org/news/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda/)
+
 ## Illustration and Svg
 
 ### [undraw](https://undraw.co/illustrations)
