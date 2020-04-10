@@ -8,5 +8,13 @@
 ## [Massive Resources For Every PHP Developer To Bookmark](https://dev.to/moha1234566044/massive-resources-for-every-php-developer-to-bookmark-om2)
 ## [Free GitHub Learning Labs A to Z of Web Development](https://dev.to/krishnakakade/free-github-learning-labs-a-to-z-of-web-development-3501)
 ## [create-an-e-commerce-app-with-gatsby](https://jamstack.training/p/create-an-e-commerce-app-with-gatsby)
-
+## [Coronavirus Invaders - CSS Pure Game (No JS!)](https://codepen.io/elad2412/pen/wvabjXy)
+## [Learn JS-Gatsby2020](https://twitter.com/gatsbyjs/status/1245742070989553664)
+## [don-t-worry-about-how-long-it-takes-you-to-become-a-programmer](https://dev.to/dthompsondev/don-t-worry-about-how-long-it-takes-you-to-become-a-programmer-85h)
+## [on-expectation-of-technical-blogging](https://dev.to/hoangbkit/on-expectation-of-technical-blogging-3j7d)
+## [dev to fast how](https://dev.to/sm0ke/dev-to-is-fast-but-how-10le)
+## [class-12/11](https://www.askmattrab.com/)
+## [coding Challenge](https://edabit.com/?fbclid=IwAR0h7_sicXhqrKmK37hh4lO9QErvW1KPZ1HZ3wzw-4R2t1Kfqzmn2LoGFxg)
+## [css master Elad](https://eladsc.com/)
+## [which-languageframework-would-you-use-to-develop-a-rest-api](https://hashnode.com/post/which-languageframework-would-you-use-to-develop-a-rest-api-ck8rem0cr00wfehs1l6in708g#ck8syk9lh002x0as17gth2b24)
 
