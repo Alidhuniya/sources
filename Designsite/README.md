@@ -28,7 +28,7 @@
 ## [figma themes](https://webdesign.tutsplus.com/articles/the-best-free-figma-resources-templates-icons-ui-kits-and-more--cms-32053)
 ## [figma themes](https://speckyboy.com/free-web-mobile-figma-ui-templates/)
 ## [figma themes](https://www.uistore.design/items/traffico-landing-page-for-figma/)
-## [figma themes]()
+## [figma themes](https://uidesigndaily.com/)
 
 ## Illustration and Svg
 

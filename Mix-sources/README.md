@@ -27,4 +27,12 @@
 ## [Tell Me The Question You HATED The Most During a Job Interview by Domenico Solazzo](https://hashnode.com/post/tell-me-the-question-you-hated-the-most-during-a-job-interview-ck8sn58c7002o20s1q5ehonfo)
 ## [react slide](https://docs.google.com/presentation/d/1M-JUtp9I5_gSk8OpV9Adk9sYzhoU-VNcwz9RUJ1-8Sw/edit#slide=id.g6efabcab1d_0_1350)
 ## [book on FP by Fedrik view](https://github.com/MostlyAdequate/mostly-adequate-guide)
+## [css-clamp](https://codepen.io/elad2412/pen/xxxNVRW)
+## [gatsby-blog](https://www.youtube.com/watch?v=lvq2nc3WkZU&list=PLMhAeHCz8S3_x-jXerCYnl7jftCSxQkPV)
+## [jam stack sources](https://jamstackthemes.dev/theme/gatsby-markdown-blog-starter/)
+## https://lhammer.cn/You-need-to-know-css/#/
+## [taniarascia portfolio](https://www.taniarascia.com/)
+## [JS sources and other language](https://flaviocopes.com/)
+## [css sources](https://assortment.io/)
+## [dan abravo portfolio](https://overreacted.io/)
 
