@@ -41,6 +41,8 @@
 
 ## Colors
 
+### [colors gradiesnts fonts](https://www.colorsandfonts.com/)
+
 ### [colors-sheme-generator](https://www.colorsandfonts.com/)
 
 ### [color-shemes-generator](https://coolors.co/)

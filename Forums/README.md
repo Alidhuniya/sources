@@ -19,4 +19,5 @@
 ## [www.webdesignerforum](https://www.webdesignerforum.co.uk/)
 ## [coding Challenge](https://edabit.com/?fbclid=IwAR0h7_sicXhqrKmK37hh4lO9QErvW1KPZ1HZ3wzw-4R2t1Kfqzmn2LoGFxg)
 ## [400 slack communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d)
+## [html css forum](https://devdojo.com/forums/category/html-css)
 

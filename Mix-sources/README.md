@@ -35,4 +35,10 @@
 ## [JS sources and other language](https://flaviocopes.com/)
 ## [css sources](https://assortment.io/)
 ## [dan abravo portfolio](https://overreacted.io/)
-
+## [how-to-access-dev-tool-on-mobile-browsers](https://asaolelijah.hashnode.dev/how-to-access-dev-tool-on-mobile-browsers-ck9ehpgev05qvcxs108qm7p16#ck9uxvons04mt6es1rfvu8vpq)
+## [what is design patterns](https://hashnode.com/post/what-is-design-pattern-just-another-article-ck9hyt15v07p2css1rek74gox)
+## [PWA in React](https://morioh.com/p/ff09fcb3a328?f=5c21fb01c16e2556b555ab32&fbclid=IwAR13ixpR9QQNu8DottHJ1WMaFxvZNwY2PFYvua7X6NtBNZDi5vjGcQL9mOE)
+## [shortlink site](https://www.rebrandly.com/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier)
+## [see all website on web](https://internet-map.net/)
+## [React books](https://www.roadtoreact.com/?fbclid=IwAR3RzEfZVUrMnjx1x1wP8_OSQ-5TEXFxnXfb5keY10-vLpYkmMCHluCcC-c)
+## [embed google drive videos](https://support.google.com/blogger/thread/1950766?hl=en)
