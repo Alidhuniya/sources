@@ -1,5 +1,7 @@
 # Flexbox-css
 
+## [flexbox-zombies](https://geddski.teachable.com/p/flexbox-zombies)
+## [the-ultimate-guide-to-css-flex](https://www.freecodecamp.org/news/the-ultimate-guide-to-css-flex/)
 ## [layout](https://codepen.io/designcourse/pen/MWwNgZW)
 ## [WESBOS with projects](https://flexbox.io/)
 

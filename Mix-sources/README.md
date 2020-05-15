@@ -42,3 +42,4 @@
 ## [see all website on web](https://internet-map.net/)
 ## [React books](https://www.roadtoreact.com/?fbclid=IwAR3RzEfZVUrMnjx1x1wP8_OSQ-5TEXFxnXfb5keY10-vLpYkmMCHluCcC-c)
 ## [embed google drive videos](https://support.google.com/blogger/thread/1950766?hl=en)
+## [pwa get started](https://dev.to/tharunshiv/pwa-why-should-you-use-it-and-not-use-it-447?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)

@@ -179,6 +179,11 @@ quora
 instagram
 
 
+> ## Books
+
+## [every-developer-must-read-before-it-s-too](https://dev.to/srebalaji/5-books-every-developer-must-read-before-it-s-too-late-2h1n?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
+
 ## Coding Challenge Sources
 
 Hackerrank

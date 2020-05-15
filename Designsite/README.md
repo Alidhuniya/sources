@@ -1,6 +1,9 @@
 # Design sources
 
 ## Learn Design
+
+### [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+### [50-free-tools-and-resources-to-create-awesome-user-interfaces](https://dev.to/davidepacilio/50-free-tools-and-resources-to-create-awesome-user-interfaces-1c1b?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 ### [books on design and dev](https://abookapart.com/)
 ### [Learning Design vs. Becoming a Designer](https://artplusmarketing.com/learning-design-vs-becoming-a-designer-128c257667b4)
 ### [Design for Non-Designers: Part 1](https://medium.com/hello-web-design/design-for-non-designers-part-1-6559ed93ff91)
@@ -29,6 +32,13 @@
 ## [figma themes](https://speckyboy.com/free-web-mobile-figma-ui-templates/)
 ## [figma themes](https://www.uistore.design/items/traffico-landing-page-for-figma/)
 ## [figma themes](https://uidesigndaily.com/)
+
+
+> # Blog on UI/UX
+
+## [speeding-response-time-using-design](https://medium.com/@_yogeshdhakal/speeding-response-time-using-design-1e321fe14b0d)
+
+
 
 ## Illustration and Svg
 

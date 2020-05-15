@@ -93,6 +93,10 @@ JavaScript_basics
 > ## Projects IDEA:
 1.
 
+> ## JS errors
+ https://rollbar.com/blog/top-10-javascript-errors/
+
+
 > ## JS Challenge
 
 Hackerank

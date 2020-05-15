@@ -4,3 +4,4 @@
 ## [css project idea](https://www.millyberst.com/)
 ## [html css forum](https://devdojo.com/forums/category/html-css)
 ## [css projects](https://www.frontendmentor.io/)
+## [css talks](https://singaporecss.github.io/50/)
