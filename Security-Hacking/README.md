@@ -26,6 +26,7 @@
 > # communities
 
 > # youtube channel
+## [React security](https://reactsecurity.io/)
 
 > # Security Talks and Conferences
 

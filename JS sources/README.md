@@ -89,6 +89,12 @@ JavaScript_basics
 
 46.https://webapplog.com/es6/
 
+> ## Article on topics
+### [Data Binding](https://blog.jeremylikness.com/blog/client-side-javascript-databinding-without-a-framework/)
+
+### [Modules](https://blog.greenroots.info/javascript-modules-and-how-to-effectively-work-with-export-import-cka7t5z6s01irx9s16st6j51j)
+### [understanding-closures-in-javascript](https://moshood.hashnode.dev/understanding-closures-in-javascript-cka8xw7vo008zb6s1tm1zm2gw)
+### [Async await](https://dev.to/nipeshkc7/how-i-ve-been-misusing-async-await-1f5j)
 
 > ## Projects IDEA:
 1.
