@@ -49,3 +49,5 @@
 ## [react script](https://dev.to/bnevilleoneill/everything-you-need-to-know-about-react-scripts-em1)
 ## [sharing-react-components-between-an-spa-and-a-static-site-290](https://dev.to/giteden/sharing-react-components-between-an-spa-and-a-static-site-290j)
 ## [react-amsterdam/2020-online](https://hero35.com/react-amsterdam/2020-online)
+## [react-native-vs-nativescript-vs-xamarin-vs-flutter-vs-ionic-vs-cordova-vs-pwas](https://codeburst.io/react-native-vs-nativescript-vs-xamarin-vs-flutter-vs-ionic-vs-cordova-vs-pwas-196810954450)
+## [optimizing-images-for-the-web-an-in-depth-guide](https://blog.prototyp.digital/optimizing-images-for-the-web-an-in-depth-guide/)
