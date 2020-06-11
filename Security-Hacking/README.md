@@ -27,6 +27,7 @@
 
 > # youtube channel
 ## [React security](https://reactsecurity.io/)
+## [Nepali, how to get started](https://www.facebook.com/watch/live/?v=634061380526623&ref=watch_permalink)
 
 > # Security Talks and Conferences
 

@@ -11,6 +11,8 @@ JavaScript_basics
 
 4.official site for es6:https://www.ecma-international.org/ecma-262/6.0/?fbclid=IwAR0h3qF94aYddH21wN4wTrq6oLgWk2awaG-7b3WTXiS6Y7m6Be4qtWe5pys
 
+https://htmldom.dev/
+
 5.Solo Learn web+Mobile
 
 6.9. Codecademy
@@ -89,7 +91,13 @@ JavaScript_basics
 
 46.https://webapplog.com/es6/
 
-> ## Article on topics
+> ## Article/videos on topics
+
+### [lazyloading in html](https://www.youtube.com/watch?v=gtxO_niDC5M)
+### [interpreted vs compiled](https://blog.greenroots.info/javascript-interpreted-or-compiled-the-debate-is-over-ckb092cv302mtl6s17t14hq1j)
+### [js image slider](https://codepen.io/Gjoko-Bulovski/pen/gZMQWq)
+### [get-the-current-time-only-in-javascript](https://stackoverflow.com/questions/10599148/how-do-i-get-the-current-time-only-in-javascript/25164024)
+
 ### [Data Binding](https://blog.jeremylikness.com/blog/client-side-javascript-databinding-without-a-framework/)
 
 ### [Modules](https://blog.greenroots.info/javascript-modules-and-how-to-effectively-work-with-export-import-cka7t5z6s01irx9s16st6j51j)
@@ -97,7 +105,10 @@ JavaScript_basics
 ### [Async await](https://dev.to/nipeshkc7/how-i-ve-been-misusing-async-await-1f5j)
 
 > ## Projects IDEA:
-1. ### [google-sheets-as-your-web-backend](https://dev.to/sarthakganguly/google-sheets-as-your-web-backend-4a65)
+
+### [JS projects](https://www.johnsmilga.com/)
+### [JS projects idea](https://vanillajsacademy.com/#work-on-fun-projects)
+ ### [google-sheets-as-your-web-backend](https://dev.to/sarthakganguly/google-sheets-as-your-web-backend-4a65)
 
 > ## JS errors
  https://rollbar.com/blog/top-10-javascript-errors/
@@ -300,3 +311,7 @@ https://commons.wikimedia.org/wiki/Ma...
 
 Pixabay
 https://pixabay.com/
+
+
+
+

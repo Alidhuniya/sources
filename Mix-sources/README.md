@@ -51,3 +51,5 @@
 ## [react-amsterdam/2020-online](https://hero35.com/react-amsterdam/2020-online)
 ## [react-native-vs-nativescript-vs-xamarin-vs-flutter-vs-ionic-vs-cordova-vs-pwas](https://codeburst.io/react-native-vs-nativescript-vs-xamarin-vs-flutter-vs-ionic-vs-cordova-vs-pwas-196810954450)
 ## [optimizing-images-for-the-web-an-in-depth-guide](https://blog.prototyp.digital/optimizing-images-for-the-web-an-in-depth-guide/)
+## [Free SSL forever](https://www.sslforfree.com/)
+## [Find tech trend using google official site](https://trends.google.com/trends/?geo=US)
