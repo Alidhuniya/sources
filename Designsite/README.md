@@ -42,6 +42,7 @@
 
 ## Illustration and Svg
 
+### [free-illustrations-for-developers](https://dev.to/sasidharan/free-illustrations-for-developers-35hl?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 ### [undraw](https://undraw.co/illustrations)
 ### [D3.js](https://www.newline.co/fullstack-d3?utm_source=stateofjs2019&utm_campaign=stateofjs2019&utm_content=textlink)
 

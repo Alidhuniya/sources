@@ -1,4 +1,5 @@
 # CSS
+## [flexbox](https://movi.hashnode.dev/a-deep-dive-into-css-flexbox-ckbnfa66000jejps18z5r7914)
 ## [checking best responsive tool](https://responsively.app/)
 ## [@import in pure css](https://stackoverflow.com/questions/10036977/best-way-to-include-css-why-use-import)
 ## [css project idea](https://www.millyberst.com/)

@@ -53,3 +53,4 @@
 ## [optimizing-images-for-the-web-an-in-depth-guide](https://blog.prototyp.digital/optimizing-images-for-the-web-an-in-depth-guide/)
 ## [Free SSL forever](https://www.sslforfree.com/)
 ## [Find tech trend using google official site](https://trends.google.com/trends/?geo=US)
+## [advice-to-junior-developers](https://dev.to/samkhan27/advice-to-junior-developers-30a3)
