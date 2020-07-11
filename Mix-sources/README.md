@@ -1,5 +1,6 @@
 # General-sources
 
+## [why-every-developer-should-start-blogging](https://lo-victoria.com/why-every-developer-should-start-blogging-ckcga7ulq007tkes13frydqnz)
 ## [cssreference](https://cssreference.io/)
 ## [htmlreference](https://htmlreference.io/)
 ## [aliSite](https://welearncode.com/favorite-free-resources/)

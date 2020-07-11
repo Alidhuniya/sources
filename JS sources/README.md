@@ -93,6 +93,8 @@ https://htmldom.dev/
 
 > ## Article/videos on topics
 
+### [closures](https://dev.to/itnext/how-you-can-learn-closures-in-javascript-and-understand-when-to-use-them-2lk5?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+### [Rise of Frontend Frameworks Reason](https://www.welcometothejungle.com/en/articles/btc-javascript-frontend-frameworks)
 ### [freeJS Domain](https://js.org/)
 ### [JS hoisting Internals](https://blog.greenroots.info/javascript-hoisting-internals-ckbuavl6f00dllas14hl9ckq1)
 ### [async in JS](https://dev.to/nas5w/asynchronous-javascript-how-callbacks-promises-and-async-await-work-1f7p?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)

@@ -6,6 +6,9 @@
 
 # Blogs/article
 
+## [Build Public API with github Pages](https://towardsdatascience.com/using-github-pages-for-creating-global-api-76b296c4b3b5)
+## [ecmascript-asyncawait](https://tc39.es/ecmascript-asyncawait/)
+## [cors-why-is-cors-so-important-for-web-development](https://dev.to/hemant/understand-cors-why-is-cors-so-important-for-web-development-46m8)
 ## [hiding-api-keys-in-your-code](https://dev.to/ivana_croxcatto/hiding-api-keys-in-your-code-1h0a?fbclid=IwAR1kboicyqkgUAGDwe475q1f5X5p7jXtEV_fCgJaeLzA8xuJIR-DtvUU1Z0)
 ## [Why you shouldn’t use google.com to search in Google](https://www.youtube.com/watch?v=U_RKc2UoMTY)
 ## [hsts](https://https.cio.gov/hsts/)

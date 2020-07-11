@@ -1,4 +1,8 @@
 # CSS
+
+## [css-resolution-and-device-resolution](https://medium.com/@elad/understanding-the-difference-between-css-resolution-and-device-resolution-28acae23da0b)
+## [3-popular-website-heroes-created-with-css-grid-layout](https://dev.to/5t3ph/3-popular-website-heroes-created-with-css-grid-layout-4fdl?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+## [normalize-css-or-css-reset](https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e)
 ## [flexbox](https://movi.hashnode.dev/a-deep-dive-into-css-flexbox-ckbnfa66000jejps18z5r7914)
 ## [checking best responsive tool](https://responsively.app/)
 ## [@import in pure css](https://stackoverflow.com/questions/10036977/best-way-to-include-css-why-use-import)

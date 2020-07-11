@@ -1,5 +1,6 @@
 # Git
 
+## [Git Concepts I Wish I Knew Years Ago](https://dev.to/g_abud/advanced-git-reference-1o9j?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 ### [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)
 ### [A Beginner’s Guide to Git — How to Write a Good Commit Message](https://www.freecodecamp.org/news/a-beginners-guide-to-git-how-to-write-a-good-commit-message/)
 ### [Udacity Git Commit Message Style Guide](http://udacity.github.io/git-styleguide/)
