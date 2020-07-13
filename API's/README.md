@@ -1,5 +1,23 @@
 # API's
 
+# Topics
+
+web and web-services
+internet
+what is OSAP and API
+xml and json
+what is route,endpoint,parameter,schema
+APi and types
+Rest API and Restful API
+xmlhttprequest
+fetch api
+async await
+cross origin policy
+mixed contents
+Headless cms, Decoupled cms, Traditional CMS
+GraphQL
+
+
 # Youtube
 
 
