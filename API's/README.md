@@ -14,6 +14,10 @@ fetch api
 async await
 cross origin policy
 mixed contents
+Proxies
+How to hide API's
+Rate limiting
+How to make your own API
 Headless cms, Decoupled cms, Traditional CMS
 GraphQL
 
