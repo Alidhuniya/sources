@@ -2,6 +2,8 @@
 
 ## Articles/blog
 
+### [html templates](https://dev.to/templates/free-html-templates-5g67)
+
 ### [this keyword](https://blog.meettanvi.com/understanding-this-ckd7jnsyv005nses14abf9f6g)
 ### [react website collection](https://madewithreact.com/)
 ### [Frameworks vs Libraries vs API](https://dev.to/sup/framework-vs-libraries-vs-api-3ede)
@@ -18,6 +20,9 @@
 
 
 ## Videos
+
+### [udemy React first- First met React(Only covers the basic fundamentals of React) ](https://www.udemy.com/course/first-met-react/learn/lecture/17508622#overview)
+
 
 ### [SPA](https://www.youtube.com/watch?v=ev_BwtCbnCI)
 ### [SPA](https://www.youtube.com/watch?v=F_BYg2QGsC0)
