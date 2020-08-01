@@ -1,15 +1,11 @@
-<iframe
-     src="https://codesandbox.io/embed/how-react-works-8xpvt?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="how react works"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
 
 # React
 
 
 ## Articles/blog
+
+### [Different options for managing state in a React app (2020 edition)](https://tapdancingtocode.hashnode.dev/different-options-for-managing-state-in-a-react-app-2020-edition-ckda86m6l00dltss1a7glfdfv#ckdb0b8z200ph59s12tfr6dhl)
+### [state and props](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
 
 ### [html templates](https://dev.to/templates/free-html-templates-5g67)
 ### [this keyword](https://blog.meettanvi.com/understanding-this-ckd7jnsyv005nses14abf9f6g)
