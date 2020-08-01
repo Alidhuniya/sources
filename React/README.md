@@ -1,9 +1,17 @@
+
+<iframe
+     src="https://codesandbox.io/embed/how-react-works-8xpvt?fontsize=14&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="how react works"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
+
 # React
 
 ## Articles/blog
 
 ### [html templates](https://dev.to/templates/free-html-templates-5g67)
-
 ### [this keyword](https://blog.meettanvi.com/understanding-this-ckd7jnsyv005nses14abf9f6g)
 ### [react website collection](https://madewithreact.com/)
 ### [Frameworks vs Libraries vs API](https://dev.to/sup/framework-vs-libraries-vs-api-3ede)
