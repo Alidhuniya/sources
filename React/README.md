@@ -6,6 +6,7 @@
 
 ### [Different options for managing state in a React app (2020 edition)](https://tapdancingtocode.hashnode.dev/different-options-for-managing-state-in-a-react-app-2020-edition-ckda86m6l00dltss1a7glfdfv#ckdb0b8z200ph59s12tfr6dhl)
 ### [state and props](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
+### [ React Markdown file rendered using React components](https://www.youtube.com/watch?v=OQ7p3Hi3IJI)
 
 ### [html templates](https://dev.to/templates/free-html-templates-5g67)
 ### [this keyword](https://blog.meettanvi.com/understanding-this-ckd7jnsyv005nses14abf9f6g)
