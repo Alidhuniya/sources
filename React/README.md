@@ -4,6 +4,9 @@
 
 ## Articles/blog
 
+### [ow-to-prevent-xss-attacks-when-using-dangerouslysetinnerhtml-in-react](https://dev.to/jam3/how-to-prevent-xss-attacks-when-using-dangerouslysetinnerhtml-in-react-1464)
+### [rendering readme or markdown file on components](https://stackoverflow.com/questions/42928530/how-do-i-load-a-markdown-file-into-a-react-component/53975297#53975297)
+
 ### [Different options for managing state in a React app (2020 edition)](https://tapdancingtocode.hashnode.dev/different-options-for-managing-state-in-a-react-app-2020-edition-ckda86m6l00dltss1a7glfdfv#ckdb0b8z200ph59s12tfr6dhl)
 ### [state and props](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
 ### [ React Markdown file rendered using React components](https://www.youtube.com/watch?v=OQ7p3Hi3IJI)
