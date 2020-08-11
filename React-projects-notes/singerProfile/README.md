@@ -19,3 +19,9 @@ In this video the guy is showing how to hide API keys from code using env.develo
 
 link of the video: https://www.youtube.com/watch?v=PB5RQk5gAdQ
 articel on using package: https://dev.to/ivana_croxcatto/hiding-api-keys-in-your-code-1h0a
+
+> # How to Fetch Nested Entry or Reference Entry in Contentful?Can't read property ‘fields’ of undefined
+
+https://youtu.be/skPzKVbPcKs
+
+blogs: https://rb.gy/p7yguk
