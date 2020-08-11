@@ -12,3 +12,10 @@ solution: if importing and exporting is correct then start the development serve
 
 > # Terminal in Atom editor
 solution: https://stackoverflow.com/questions/43013195/how-to-open-the-terminal-in-atom#:~:text=You%20can%20use%20ctrl%2Dshift,in%20the%20project's%20root%20directory.&text=Atom%20currently%20does%20not%20have,as%20platformio%2Dide%2Dterminal%20.
+
+> # How to hide API's from github code
+
+In this video the guy is showing how to hide API keys from code using env.development file in root directory but for me env.development didn't work so i just replace the file with .env file only and it works
+
+link of the video: https://www.youtube.com/watch?v=PB5RQk5gAdQ
+articel on using package: https://dev.to/ivana_croxcatto/hiding-api-keys-in-your-code-1h0a
