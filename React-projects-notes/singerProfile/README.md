@@ -25,3 +25,7 @@ articel on using package: https://dev.to/ivana_croxcatto/hiding-api-keys-in-your
 https://youtu.be/skPzKVbPcKs
 
 blogs: https://rb.gy/p7yguk
+
+> # React 17 release with no features but some breaking changes
+
+blog link: https://dev.to/alidhuniya/react-17-just-released-with-no-new-features-some-breaking-changes-4a9m
