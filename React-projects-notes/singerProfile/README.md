@@ -29,3 +29,11 @@ blogs: https://rb.gy/p7yguk
 > # React 17 release with no features but some breaking changes
 
 blog link: https://dev.to/alidhuniya/react-17-just-released-with-no-new-features-some-breaking-changes-4a9m
+
+> # Fontawesome icons in React Project
+
+https://stackoverflow.com/questions/23116591/how-to-include-a-font-awesome-icon-in-reacts-render
+
+https://fontawesome.com/how-to-use/on-the-web/using-with/react
+
+blog: https://dev.to/alidhuniya/how-to-use-fontawesome-icons-in-react-app-without-using-npm-yarn-package-4df6
