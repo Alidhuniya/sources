@@ -37,3 +37,11 @@ https://stackoverflow.com/questions/23116591/how-to-include-a-font-awesome-icon-
 https://fontawesome.com/how-to-use/on-the-web/using-with/react
 
 blog: https://dev.to/alidhuniya/how-to-use-fontawesome-icons-in-react-app-without-using-npm-yarn-package-4df6
+
+> # Comments in JSX
+https://wesbos.com/react-jsx-comments
+
+> # React Router dom
+https://reactrouter.com/web/guides/quick-start
+https://www.youtube.com/watch?v=1N_Vh0bRK3c
+https://www.youtube.com/watch?v=Law7wfdg_ls&t=4s
