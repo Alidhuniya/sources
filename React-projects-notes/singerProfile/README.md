@@ -59,3 +59,11 @@ https://www.youtube.com/watch?v=hc2Gnhb1pNk
 > # Center iframe horizontally
 
 https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally
+
+> # React App behaving like a Multi-Page - Div id root gets refreshed on new page load. Is it still a SPA?
+
+https://dev.to/alidhuniya/react-app-behaving-like-a-multi-page-div-id-root-gets-refreshed-on-new-page-load-is-it-still-a-spa-4pih
+
+https://dev.to/alidhuniya/part-2-react-app-behaving-like-a-multi-page-div-id-root-gets-refreshed-on-new-page-load-is-it-still-a-spa-1dne
+
+https://www.reddit.com/r/reactjs/comments/i8t1v4/div_id_root_get_refreshed_while_navigating_menus/
