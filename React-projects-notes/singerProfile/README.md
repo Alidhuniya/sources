@@ -45,3 +45,17 @@ https://wesbos.com/react-jsx-comments
 https://reactrouter.com/web/guides/quick-start
 https://www.youtube.com/watch?v=1N_Vh0bRK3c
 https://www.youtube.com/watch?v=Law7wfdg_ls&t=4s
+
+> # Markdown Preview
+
+https://dev.to/itnext/setting-up-a-news-letter-with-react-and-mailchimp-2f6p
+https://www.npmjs.com/package/react-mailchimp-subscribe
+https://github.com/revolunet/react-mailchimp-subscribe/blob/b22aac36b6ad2cd290b30490e573efb0744925e0/src/SimpleForm.js
+
+> # Add specif youtube playlist on webpage
+https://www.youtube.com/watch?v=hc2Gnhb1pNk
+
+
+> # Center iframe horizontally
+
+https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally
