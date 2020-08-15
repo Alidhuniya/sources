@@ -4,6 +4,11 @@
 
 ## Articles/blog
 
+### [state](https://www.freecodecamp.org/news/get-pro-with-react-setstate-in-10-minutes-d38251d1c781/)
+### [fetching and rendering data from the server](https://www.pluralsight.com/guides/fetching-data-updating-state-react-class)
+### [using setState properly](https://css-tricks.com/understanding-react-setstate/)
+### [setState](https://learn.co/lessons/react-updating-state#:~:text=setState%20is%20called%20asynchronously%20and,extremely%20useful%20in%20many%20situations.)
+
 ### [ow-to-prevent-xss-attacks-when-using-dangerouslysetinnerhtml-in-react](https://dev.to/jam3/how-to-prevent-xss-attacks-when-using-dangerouslysetinnerhtml-in-react-1464)
 ### [rendering readme or markdown file on components](https://stackoverflow.com/questions/42928530/how-do-i-load-a-markdown-file-into-a-react-component/53975297#53975297)
 
