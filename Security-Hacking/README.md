@@ -6,8 +6,15 @@
 
 > # Blogs
 
+## [CSRF atack and CROS](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9)
+## [create test account for facebook](https://www.facebook.com/whitehat/accounts/)
+## [xss attack](https://gomakethings.com/a-safer-alternative-to-innerhtml-with-vanilla-js/)
+## [xss attack](https://gomakethings.com/preventing-cross-site-scripting-attacks-when-using-innerhtml-in-vanilla-javascript/)
+## [xss attack](https://medium.com/better-programming/whats-best-innertext-vs-innerhtml-vs-textcontent-903ebc43a3fc)
+
 > # List of attacks
 1. XSS
+2. top-ten atacks by oswap: https://owasp.org/www-project-top-ten/
 
 > # Books
 

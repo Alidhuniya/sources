@@ -4,6 +4,10 @@
 
 ## Articles/blog
 
+### [setup react from scratch](https://www.freecodecamp.org/news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/)
+### [rontend-developers-headless-cms](https://strapi.io/blog/frontend-developers-headless-cms)
+### [react-vs-vanilla-js](https://www.framer.com/blog/posts/react-vs-vanilla-js/#:~:text=Plain%20JS%20apps%20usually%20start,the%20initial%20state%20in%20JavaScript.&text=React%20automatically%20updates%20the%20UI,changing%20state%20within%20the%20component.)
+
 ### [state](https://www.freecodecamp.org/news/get-pro-with-react-setstate-in-10-minutes-d38251d1c781/)
 ### [fetching and rendering data from the server](https://www.pluralsight.com/guides/fetching-data-updating-state-react-class)
 ### [using setState properly](https://css-tricks.com/understanding-react-setstate/)
@@ -56,13 +60,19 @@
 ## React project idea
 
 ### [convert JS projects into React](https://www.vanillajavascriptprojects.com/)
+### [100daysOfCode Projects](https://raihans100days.netlify.app/projects.html)
 
 ### [dev.to API](https://dev.to/hemant/i-created-my-blog-using-dev-to-api-and-react-4f61)
 ### [dev.top API github code](https://github.com/8bithemant/Dev-Blogs)
 
+## React Security
+
+### [7 security tips for your React application](https://dev.to/vaibhavkhulbe/7-security-tips-for-your-react-application-4e78)
+
 ## Interview Questions
 
 ### [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+### [my-first-interview-as-a-junior-developer](https://dev.to/hemant/my-first-interview-as-a-junior-developer-18f6)
 
 
 ## opinions
