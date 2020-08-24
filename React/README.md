@@ -4,6 +4,11 @@
 
 ## Articles/blog
 
+### [render-props](https://css-tricks.com/an-overview-of-render-props-in-react/)
+### [render-props](https://ui.dev/react-render-props/)
+### [render props](https://medium.com/@tariqul.islam.rony/render-props-in-react-js-part-2-918a94490df0)
+### [render-props](https://flaviocopes.com/react-render-props/)
+
 ### [setup react from scratch](https://www.freecodecamp.org/news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/)
 ### [rontend-developers-headless-cms](https://strapi.io/blog/frontend-developers-headless-cms)
 ### [react-vs-vanilla-js](https://www.framer.com/blog/posts/react-vs-vanilla-js/#:~:text=Plain%20JS%20apps%20usually%20start,the%20initial%20state%20in%20JavaScript.&text=React%20automatically%20updates%20the%20UI,changing%20state%20within%20the%20component.)
