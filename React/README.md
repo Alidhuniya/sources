@@ -4,6 +4,8 @@
 
 ## Articles/blog
 
+### [problems with context API](https://dev.to/leewarrickjr/the-problem-with-react-s-context-api-3dn0)
+
 ### [render-props](https://css-tricks.com/an-overview-of-render-props-in-react/)
 ### [render-props](https://ui.dev/react-render-props/)
 ### [render props](https://medium.com/@tariqul.islam.rony/render-props-in-react-js-part-2-918a94490df0)
