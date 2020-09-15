@@ -16,10 +16,14 @@
 
 ## Articles for class component
 
+### [tutorialspoint-react-redux](https://www.tutorialspoint.com/redux/redux_react_example.htm)
+
 
 ## Articles for functional component
 
 ## Articles for both
+
+### [React Redux Tutorial for Beginners: Simply Explained (2020)](https://chriscourses.com/blog/redux)
 
 ## Articles for redux toolkit (RTK)
 
