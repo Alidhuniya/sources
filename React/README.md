@@ -4,7 +4,12 @@
 
 ## Articles/blog
 
+### [reactjs-roadmap-for-developers](https://dev.to/theme_selection/reactjs-roadmap-for-developers-2824)
+### [react sources](https://dev.to/tracycss/free-react-resources-you-should-have-in-your-pocket-4gl3?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
 ### [problems with context API](https://dev.to/leewarrickjr/the-problem-with-react-s-context-api-3dn0)
+### [stop using react](https://dev.to/ender_minyard/why-you-should-stop-using-react-g7c)
+### [start using react](https://dev.to/michaelgee/start-using-react-js-cnn)
 
 ### [render-props](https://css-tricks.com/an-overview-of-render-props-in-react/)
 ### [render-props](https://ui.dev/react-render-props/)
@@ -65,6 +70,14 @@
 
 
 ## React project idea
+
+### [react e-commerce+redux](https://github.com/TheCoderDream/React-Ecommerce-App-with-Redux)
+### [RestaurantReactApp](https://github.com/aashishpeepra/RestaurantReactApp)
+### [restaurant lists in city](https://foodadvisor.strapi.io/)
+### [youtubeclone-fronten+redux](https://github.com/manikandanraji/youtubeclone-frontend)
+### [soundcloud+redux](https://github.com/r-park/soundcloud-redux)
+### [music+redux](https://github.com/tvillarete/apple-music-js)
+### [feed+redux](https://react-redux.realworld.io/#/?_k=rqevs9)
 
 ### [convert JS projects into React](https://www.vanillajavascriptprojects.com/)
 ### [100daysOfCode Projects](https://raihans100days.netlify.app/projects.html)

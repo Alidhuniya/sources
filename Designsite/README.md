@@ -35,6 +35,8 @@
 
 
 > # Blog on UI/UX
+## [est-design-resources-websites-every-developer-should-bookmark](https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+## [some-lesser-known-but-awesome](https://dev.to/soumyadey/some-lesser-known-but-awesome-online-tools-for-web-development-10fa)
 
 ## [speeding-response-time-using-design](https://medium.com/@_yogeshdhakal/speeding-response-time-using-design-1e321fe14b0d)
 

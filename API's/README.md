@@ -43,6 +43,8 @@ GraphQL
 
 
 # How to hide your API's
+## [api-security-best-practices](https://dev.to/bearer/api-security-best-practices-3gjl?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+## [twitter-discussion-hide-api](https://twitter.com/kvncnls/status/1309927434695913472)
 
 ## [Hiding API Keys in Your Code](https://dev.to/ivana_croxcatto/hiding-api-keys-in-your-code-1h0a?fbclid=IwAR1kboicyqkgUAGDwe475q1f5X5p7jXtEV_fCgJaeLzA8xuJIR-DtvUU1Z0)
 ## [env variable example](https://www.youtube.com/watch?v=PB5RQk5gAdQ)

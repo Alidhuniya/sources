@@ -93,6 +93,8 @@ https://htmldom.dev/
 
 > ## Article/videos on topics
 
+### [clean syntax](https://deepaksisodiya.hashnode.dev/5-best-practices-for-clean-coding-in-javascript-ckewx32f801e7ggs1ddys9m3f)
+
 ### [closures](https://dev.to/itnext/how-you-can-learn-closures-in-javascript-and-understand-when-to-use-them-2lk5?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 ### [Rise of Frontend Frameworks Reason](https://www.welcometothejungle.com/en/articles/btc-javascript-frontend-frameworks)
 ### [freeJS Domain](https://js.org/)

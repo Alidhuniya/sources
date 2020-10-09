@@ -1,5 +1,7 @@
 # General-sources
 
+## [How-can-I-learn-about-app-development](https://www.quora.com/How-can-I-learn-about-app-development)
+
 ## [why-every-developer-should-start-blogging](https://lo-victoria.com/why-every-developer-should-start-blogging-ckcga7ulq007tkes13frydqnz)
 ## [cssreference](https://cssreference.io/)
 ## [htmlreference](https://htmlreference.io/)
