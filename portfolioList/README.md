@@ -1,5 +1,8 @@
 # Portfolios from all over the world
 
+## [21-Awesome dev portfolio](https://madza.hashnode.dev/21-awesome-dev-portfolios-for-your-inspiration)
+## [don't waste your time building portfolios](https://dev.to/jkettmann/don-t-waste-your-time-on-a-portfolio-website-314b?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
 ## [jordanwinslow.dev](https://www.jordanwinslow.dev/portfolio/)
 ## [portfolio-tips](https://twitter.com/SwastikaYadav15/status/1309398616994279424)
 

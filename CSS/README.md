@@ -1,5 +1,8 @@
 # CSS
 
+## [How CSS work under the hood](https://shaydeecoder.hashnode.dev/how-css-works-behind-the-scene-cascade-and-specificity)
+## [css hacking](https://dev.to/mizadmehr/missed-frontend-vulnerabilities-1-css-is-not-as-safe-as-you-think-3l64?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
 ## [css-resolution-and-device-resolution](https://medium.com/@elad/understanding-the-difference-between-css-resolution-and-device-resolution-28acae23da0b)
 ## [3-popular-website-heroes-created-with-css-grid-layout](https://dev.to/5t3ph/3-popular-website-heroes-created-with-css-grid-layout-4fdl?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 ## [normalize-css-or-css-reset](https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e)

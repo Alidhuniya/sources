@@ -2,6 +2,9 @@
 
 ## Article
 
+## [redux guide](https://daveceddia.com/)
+## [react-redux-hooks](https://dev.to/tkudlinski/react-redux-useselector-hook-and-equality-checks-2m1d)
+
 ### [what is compose in redux](https://stackoverflow.com/questions/41357897/understanding-compose-functions-in-redux#:~:text=Compose%20is%20used%20when%20you,however%20many%20other%20are%20available.)
 ### [compose](https://redux.js.org/api/compose)
 ### [destructing nested objects](https://medium.com/@pyrolistical/destructuring-nested-objects-9dabdd01a3b8)

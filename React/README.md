@@ -1,8 +1,20 @@
 
 # React
 
+## React Courses
+
+### [Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)](https://academy.zerotomastery.io/p/complete-react-developer-redux-hooks-graphql-zero-to-mastery?affcode=441520_up3r7q5l)
+### [codeacademy-react-course-package](https://www.codecademy.com/learn/paths/build-web-apps-with-react?utm_source=rakuten&utm_medium=affiliate&utm_campaign=RealToughCandy%20YouTube&utm_content=10-1&ranMID=44188&ranEAID=7UC8CneojQc&ranSiteID=7UC8CneojQc-2bBG5t100_zAL960xjZZzw)
+### [educative-react-package](https://www.educative.io/track/advanced-front-end-developer?aff=x06V)
+
 
 ## Articles/blog
+
+
+### [js backend roadmap](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
+### [useEffect closure bug](https://morioh.com/p/7f81526f3ba2?f=5c21fb01c16e2556b555ab32&fbclid=IwAR3oWO2HLQ7eVGF7PUDTTMskCy-7lOZFx4gwdsHeVpIGaPtS_IQTaFOkr-s)
+### [react-sources-to-bookmark](https://dev.to/suniljoshi19/top-42-react-resources-every-developer-should-bookmark-latest-24pb?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
 
 ### [reactjs-roadmap-for-developers](https://dev.to/theme_selection/reactjs-roadmap-for-developers-2824)
 ### [react sources](https://dev.to/tracycss/free-react-resources-you-should-have-in-your-pocket-4gl3?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
@@ -50,6 +62,8 @@
 
 ## Videos
 
+### [hooks playlist](https://www.youtube.com/watch?v=06Y6aJzTmXY&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=6&ab_channel=Codevolution&t=0s)
+
 ### [udemy React first- First met React(Only covers the basic fundamentals of React) ](https://www.udemy.com/course/first-met-react/learn/lecture/17508622#overview)
 
 
@@ -70,6 +84,8 @@
 
 
 ## React project idea
+
+### [react-collection-mini-projects-by-john-smigla](https://react-projects.netlify.app/)
 
 ### [react e-commerce+redux](https://github.com/TheCoderDream/React-Ecommerce-App-with-Redux)
 ### [RestaurantReactApp](https://github.com/aashishpeepra/RestaurantReactApp)
